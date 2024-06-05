@@ -58,6 +58,16 @@ StreamingMovies -- Whether the customer has streaming movies or not (Yes, No, No
 
 Contract -- The contract term of the customer (Month-to-Month, One year, Two year)
 
+PaperlessBilling -- Whether the customer has paperless billing or not (Yes, No)
+
+Payment Method -- The customer's payment method (Electronic check, mailed check, Bank transfer(automatic), Credit card(automatic))
+
+MonthlyCharges -- The amount charged to the customer monthly
+
+TotalCharges -- The total amount charged to the customer
+
+Churn -- Whether the customer churned or not (Yes or No)
+
 Implementation:
 
 Libraries: sklearn, Matplotlib, pandas, seaborn, and NumPy
