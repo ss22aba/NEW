@@ -18,6 +18,7 @@ Finding a most suited machine learning model for correct classification of Churn
 
 Dataset Description
 
+
 Churn Status: Indicates whether customers left within the last month (column: Churn).
 
 Subscribed Services: Details the services each customer has signed up for, including phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies.
