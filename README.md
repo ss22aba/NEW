@@ -24,9 +24,16 @@ This project aims to predict customer churn using the Telco Customer Churn datas
 - Tenure
 - Monthly Charges
 - Total Charges
+
+The KDE plot for tenure reveals that customers who have been with the company for a short period (low tenure) are more prone to churn. 
+
 <img width="938" alt="KDE Tenure" src="https://github.com/ss22aba/NEW/assets/117084208/07398231-a437-40af-9c98-67c4ebb42ce4">
 
+The KDE plot for monthly charges reveals that customers with higher monthly charges are more likely to churn. 
+
 <img width="938" alt="KDE Month" src="https://github.com/ss22aba/NEW/assets/117084208/9775831a-4a5a-463c-9800-befc9a33af11">
+
+The KDE plot for total charges implies that customers with lower total charges are more prone to churn. This could be due to shorter tenure or dissatisfaction with the service.
 
 <img width="945" alt="KDE Total charges" src="https://github.com/ss22aba/NEW/assets/117084208/805cf3a0-228e-4bef-9055-37760f37da6f">
 
