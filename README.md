@@ -119,17 +119,40 @@ Random Forest achieved the best results with an accuracy of 0.80.
 
 
 ## Recommendations to Reduce Customer Churn
-Based on the insights from the optimized Random Forest model, the following recommendations are proposed to reduce revenue loss and minimize customer churn:
+Based on the insights from the optimized Random Forest model and the EDA, the following recommendations are proposed to reduce revenue loss and minimize customer churn:
 
-- **Customized Offers and Discounts** : Use predictive insights to offer personalized discounts, promotions, or loyalty rewards to at-risk customers. Tailored offers can enhance customer satisfaction and incentivize them to stay.
-  
-- **Regular Feedback Collection** : Implement regular feedback collection mechanisms to understand customer needs and concerns. Use this feedback to continuously improve services and address any issues promptly.
-  
-- **Proactive Customer Support** : Establish a proactive customer support system to reach out to customers showing signs of dissatisfaction. This can include regular check-ins, personalized support, and addressing potential issues before they lead to churn.
+1. **Promote Long-Term Contracts :** 
 
-- **Loyalty Programs** : Develop and enhance loyalty programs to reward long-term customers. Exclusive benefits and rewards for loyal customers can increase retention rates.
+Why: Customers on longer contracts (one or two years) are less likely to leave compared to those on month-to-month plans.
 
-- **Customer Education Programs**: Create educational content to help customers better understand and utilize the services offered. Informed customers are more likely to see the value in staying with the company.
+Action: Offer discounts, bundles, or rewards to encourage customers to choose longer contracts. Emphasize the benefits and savings in your marketing.
+
+2. **Improve Paperless Billing :**
+
+Why: Customers using paperless billing are leaving more often, which might mean they are unhappy with the process.
+
+Action: Make paperless billing easier to use and more reliable. Provide strong customer support for any issues and make sure the system works smoothly.
+
+3. **Encourage Automated Payments :**
+
+Why: Customers using automated payments (like bank transfers or credit cards) are less likely to leave than those paying manually or with electronic checks.
+
+Action: Offer benefits like discounts or rewards for switching to automated payments. Educate customers on the ease and reliability of these payment methods.
+
+4. **Focus on Month-to-Month Customers :**
+
+Why: Customers with month-to-month contracts are more likely to leave, so they need more attention to keep them.
+
+Action: Run special retention campaigns for month-to-month customers, offering promotions, personalized communication, and special perks. Regularly check in to address their needs and concerns.
+
+5. **Enhance Customer Support Services :**
+
+Why: Good support services (like online security, backup, device protection, and tech support) help keep customers from leaving.
+
+Action: Improve the quality and availability of these support services. Train support staff well and ensure quick resolution of issues. Educate customers on the benefits of these services to increase their use and satisfaction.
+
+
+
 
 ## References
 
