@@ -46,10 +46,10 @@ The KDE plot for total charges implies that customers with lower total charges a
 - Dependents
 
 ##### Description
-- **Gender** does not appear to be a significant factor in customer churn. Both male and female customers exhibit similar churn patterns
-- **Senior citizens** (SeniorCitizen = 1) are more likely to churn than non-senior citizens (SeniorCitizen = 0).
-- **Customers without partners** are more likely to churn compared to those without.
-- **Customers without dependents** (Dependents = No) have a higher churn rate.
+- Gender does not appear to be a significant factor in customer churn. Both male and female customers exhibit similar churn patterns
+- Senior citizens (SeniorCitizen = 1) are more likely to churn than non-senior citizens (SeniorCitizen = 0).
+- Customers without partners are more likely to churn compared to those without.
+- Customers without dependents (Dependents = No) have a higher churn rate.
 
   
 ![demographic](https://github.com/ss22aba/NEW/assets/117084208/f7cf992e-e1ce-412d-8572-96e556ec9c10)
@@ -63,11 +63,11 @@ The KDE plot for total charges implies that customers with lower total charges a
 - StreamingMovies
 
 ##### Description
-- **Customers without phone service** are more likely to churn.
-- **Customers without multiple lines** tend to churn.
--  **Customers with no internet service or fiber optic** service have a higher churn rate, with fiber optic showing a significant proportion of churn.
--  The churn rate is higher among **customers who do not use streaming TV** services.
--  The churn rate is higher among **customers who do not use streaming movie** services.
+- Customers without phone service are more likely to churn.
+- Customers without multiple lines tend to churn.
+- Customers with no internet service or fiber optic service have a higher churn rate, with fiber optic showing a significant proportion of churn.
+-  The churn rate is higher among customers who do not use streaming TV services.
+-  The churn rate is higher among customers who do not use streaming movie services.
 
 ![General Service](https://github.com/ss22aba/NEW/assets/117084208/336dfb54-384c-4c91-821f-695029247a00)
 
@@ -78,6 +78,12 @@ The KDE plot for total charges implies that customers with lower total charges a
 - DeviceProtection
 - TechSupport
 
+##### Description
+- Customers without online security services show a higher tendency to churn.
+- The churn rate is higher among customers who do not use online backup services.
+- Customers without device protection services are more likely to churn.
+- The churn rate is higher among customers who do not have tech support services.
+
 ![Support Service](https://github.com/ss22aba/NEW/assets/117084208/5d3601d4-1224-4fe0-b1dc-6cd7cdbbb958)
 
 #### Payments
@@ -85,6 +91,11 @@ The KDE plot for total charges implies that customers with lower total charges a
 - Contract
 - PaperlessBilling
 - PaymentMethod
+
+##### Description
+- Month-to-month contracts are more prone to churn.
+- Customers with paperless billing show a higher churn rate compared to those with traditional billing methods.
+- Churn rates are higher among customers using electronic checks.
 
 ![Payments](https://github.com/ss22aba/NEW/assets/117084208/b8c46fa4-ce49-4bd1-844f-ce06975e2290)
 
