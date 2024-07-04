@@ -62,6 +62,13 @@ The KDE plot for total charges implies that customers with lower total charges a
 - StreamingTV
 - StreamingMovies
 
+##### Description
+- **Customers without phone service** are more likely to churn.
+- **Customers without multiple lines** tend to churn.
+-  **Customers with no internet service or fiber optic** service have a higher churn rate, with fiber optic showing a significant proportion of churn.
+-  The churn rate is higher among **customers who do not use streaming TV** services.
+-  The churn rate is higher among **customers who do not use streaming movie** services.
+
 ![General Service](https://github.com/ss22aba/NEW/assets/117084208/336dfb54-384c-4c91-821f-695029247a00)
 
 #### Support Services
