@@ -1,6 +1,6 @@
 # Customer Churn Prediction using Machine Learning
 
-## Introduction
+## Overview
 Customer churn prediction is crucial for businesses in competitive sectors like telecommunications, finance, and e-commerce. Accurately predicting churn helps companies implement retention strategies, reducing revenue loss and improving customer satisfaction. This project aims to develop a churn prediction system using three machine learning models:  **Random Forest, K-Nearest Neighbors (KNN), and Gradient Boosting**.
 
 Random Forest constructs multiple decision trees to reduce overfitting and capture complex data interactions. KNN classifies data points based on their nearest neighbors, effective for non-linear relationships. Gradient Boosting sequentially builds models to correct errors, capturing intricate patterns for high accuracy.
