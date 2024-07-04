@@ -69,9 +69,21 @@ This project aims to predict customer churn using the Telco Customer Churn datas
 ![Payments](https://github.com/ss22aba/NEW/assets/117084208/b8c46fa4-ce49-4bd1-844f-ce06975e2290)
 
 ## Summary of the Base Models Performance 
+
 ![Base Model Performance ](https://github.com/ss22aba/NEW/assets/117084208/140f73c3-3289-4968-8487-8c40dc8c5e79)
 
-![Accuracy plot](https://github.com/ss22aba/NEW/assets/117084208/6dc9e9ce-24c8-4fc8-a79d-88060f1bac7a)
+## Summary of the Hypertuned for the models
+
+![Hypertuned Model Performance ](https://github.com/ss22aba/NEW/assets/117084208/ca62d781-a572-49cd-872e-b669a5a28846)
+
+### ROC curve for the Random Forest Classifier
+
+![ROC- Random Forest](https://github.com/ss22aba/NEW/assets/117084208/e0cdbde8-04c6-4110-8ca2-fb9c0c698cd2)
+
+## Important Predictors
+
+![Important Predictors](https://github.com/ss22aba/NEW/assets/117084208/1dd07b8d-28bf-452d-a89d-0d21f56f2b93)
+
 
 ## Recommendations to Reduce Customer Churn
 Based on the insights from the optimized Random Forest model, the following recommendations are proposed to reduce revenue loss and minimize customer churn:
