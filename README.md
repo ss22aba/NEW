@@ -11,8 +11,8 @@ At the conclusion of the project, the effectiveness of the three hyper-tuned mod
 
 ## Flow chart of the Project
 
+![Flowchart](https://github.com/ss22aba/NEW/assets/117084208/2eae1323-1d7a-49dd-802d-6753aeae488f)
 
-![Untitled presentation](https://github.com/ss22aba/NEW/assets/117084208/37cfa9d8-3621-4cad-b1c2-5d1fc4af7e03)
 
 ## Dataset
 - Telco Customer Churn Dataset is the dataset used.
