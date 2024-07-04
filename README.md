@@ -24,5 +24,53 @@ At the conclusion of the project, the effectiveness of the three hyper-tuned mod
 
 ## Exploratory Data Analysis
 
+### Churn distribution
+<img width="1156" alt="churn distribution" src="https://github.com/ss22aba/NEW/assets/117084208/44dca2ea-d764-406f-aa44-6a9c0ee2fbae">
 
+### Numerical Features
+- Tenure
+- Monthly Charges
+- Total Charges
+<img width="938" alt="KDE Tenure" src="https://github.com/ss22aba/NEW/assets/117084208/07398231-a437-40af-9c98-67c4ebb42ce4">
+
+<img width="938" alt="KDE Month" src="https://github.com/ss22aba/NEW/assets/117084208/9775831a-4a5a-463c-9800-befc9a33af11">
+
+<img width="945" alt="KDE Total charges" src="https://github.com/ss22aba/NEW/assets/117084208/805cf3a0-228e-4bef-9055-37760f37da6f">
+
+### Categorical Features
+#### Demographic Information
+
+- Gender
+- SeniorCitizen
+- Partner
+- Dependents
+  
+![demographic](https://github.com/ss22aba/NEW/assets/117084208/f7cf992e-e1ce-412d-8572-96e556ec9c10)
+
+#### General Services
+
+- PhoneService
+- MultipleLines
+- InternetService
+- StreamingTV
+- StreamingMovies
+
+![General Service](https://github.com/ss22aba/NEW/assets/117084208/336dfb54-384c-4c91-821f-695029247a00)
+
+#### Support Services
+
+- OnlineSecurity
+- OnlineBackup
+- DeviceProtection
+- TechSupport
+
+![Support Service](https://github.com/ss22aba/NEW/assets/117084208/5d3601d4-1224-4fe0-b1dc-6cd7cdbbb958)
+
+#### Payments
+
+- Contract
+- PaperlessBilling
+- PaymentMethod
+
+![Payments](https://github.com/ss22aba/NEW/assets/117084208/b8c46fa4-ce49-4bd1-844f-ce06975e2290)
 
