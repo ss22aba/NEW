@@ -9,9 +9,9 @@ These models will be enhanced through hyperparameter tuning to optimize performa
 
 At the conclusion of the project, the effectiveness of the three hyper-tuned models will be assessed, and the best model will be chosen. This project aims to develop a state-of-the-art churn prediction system using advanced machine learning techniques and rigorous optimization, providing a reliable solution for improving customer retention strategies.
 
+## Flow chart of the Presentation
 
 
-![Untitled presentation](https://github.com/ss22aba/NEW/assets/117084208/8a511059-bef5-47f4-8ab8-9b0008c964a6)
 
 
 
