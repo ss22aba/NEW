@@ -21,7 +21,8 @@ At the conclusion of the project, the effectiveness of the three hyper-tuned mod
 - **Data File Size** : 977.5 kB (0.95 MB)
 - **Dataset Provider** : IBM via Kaggle
 - **Dataset Link** : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-  
+
+## Exploratory Data Analysis
 
 
 
