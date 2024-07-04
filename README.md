@@ -7,7 +7,6 @@ This project aims to predict customer churn using the Telco Customer Churn datas
 
 ![Flowchart](https://github.com/ss22aba/NEW/assets/117084208/2eae1323-1d7a-49dd-802d-6753aeae488f)
 
-
 ## Dataset
 - Telco Customer Churn Dataset is the dataset used.
 - **Data Format** : CSV Format (Each record is structured as a row in the CSV file, with columns representing different attributes of the customers and their service usage).
@@ -73,6 +72,8 @@ This project aims to predict customer churn using the Telco Customer Churn datas
 ![Base Model Performance ](https://github.com/ss22aba/NEW/assets/117084208/140f73c3-3289-4968-8487-8c40dc8c5e79)
 
 ## Summary of the Hyperparameter tuned models Performance
+
+Random Forest achieved the best results with an accuracy of 0.80.
 
 ![Hypertuned Model Performance ](https://github.com/ss22aba/NEW/assets/117084208/ca62d781-a572-49cd-872e-b669a5a28846)
 
