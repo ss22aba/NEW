@@ -72,7 +72,7 @@ This project aims to predict customer churn using the Telco Customer Churn datas
 
 ![Base Model Performance ](https://github.com/ss22aba/NEW/assets/117084208/140f73c3-3289-4968-8487-8c40dc8c5e79)
 
-## Summary of the Hypertuned for the models
+## Summary of the Hyperparameter tuned models Performance
 
 ![Hypertuned Model Performance ](https://github.com/ss22aba/NEW/assets/117084208/ca62d781-a572-49cd-872e-b669a5a28846)
 
