@@ -1,13 +1,7 @@
 # Customer Churn Prediction using Machine Learning
 
 ## Project Overview 
-Customer churn prediction is crucial for businesses in competitive sectors like telecommunications, finance, and e-commerce. Accurately predicting churn helps companies implement retention strategies, reducing revenue loss and improving customer satisfaction. This project aims to develop a churn prediction system using three machine learning models:  **Random Forest, K-Nearest Neighbors (KNN), and Gradient Boosting**.
-
-Random Forest constructs multiple decision trees to reduce overfitting and capture complex data interactions. KNN classifies data points based on their nearest neighbors, effective for non-linear relationships. Gradient Boosting sequentially builds models to correct errors, capturing intricate patterns for high accuracy.
-
-These models will be enhanced through hyperparameter tuning to optimize performance. By adjusting parameters like the number of trees in Random Forest, neighbors in KNN, and boosting stages in Gradient Boosting, the goal is to achieve the best accuracy.
-
-At the conclusion of the project, the effectiveness of the three hyper-tuned models will be assessed, and the best model will be chosen. This project aims to develop a state-of-the-art churn prediction system using advanced machine learning techniques and rigorous optimization, providing a reliable solution for improving customer retention strategies.
+This project aims to predict customer churn using the Telco Customer Churn dataset from Kaggle, provided by IBM. Building on insights from Prabadevi et al. (2023), Umayaparvathi (2016), and Petkovski (2016), it employs three machine learning models: Random Forest, K-Nearest Neighbors (KNN), and Gradient Boosting. After evaluating the models and performing hyperparameter tuning, Random Forest achieved the best results. Recommendations based on this model include enhancing customer support, offering personalized promotions, improving overall customer experience, regularly collecting feedback, and implementing targeted retention strategies to reduce churn and prevent revenue loss.
 
 ## Flow chart of the Project
 
@@ -19,7 +13,7 @@ At the conclusion of the project, the effectiveness of the three hyper-tuned mod
 - **Data Format** : CSV Format (Each record is structured as a row in the CSV file, with columns representing different attributes of the customers and their service usage).
 - **Number of Records** : The dataset usually contains around 7,000 to 7,500 records.
 - **Data File Size** : 977.5 kB (0.95 MB)
-- **Dataset Provider** : IBM via Kaggle
+- **Dataset Provider** : IBM
 - **Dataset Link** : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Exploratory Data Analysis
@@ -73,4 +67,35 @@ At the conclusion of the project, the effectiveness of the three hyper-tuned mod
 - PaymentMethod
 
 ![Payments](https://github.com/ss22aba/NEW/assets/117084208/b8c46fa4-ce49-4bd1-844f-ce06975e2290)
+
+## Summary of the Base Models Performance 
+![Base Model Performance ](https://github.com/ss22aba/NEW/assets/117084208/140f73c3-3289-4968-8487-8c40dc8c5e79)
+
+![Accuracy plot](https://github.com/ss22aba/NEW/assets/117084208/6dc9e9ce-24c8-4fc8-a79d-88060f1bac7a)
+
+## Recommendations to Reduce Customer Churn
+Based on the insights from the optimized Random Forest model, the following recommendations are proposed to reduce revenue loss and minimize customer churn:
+
+- **Customized Offers and Discounts** : Use predictive insights to offer personalized discounts, promotions, or loyalty rewards to at-risk customers. Tailored offers can enhance customer satisfaction and incentivize them to stay.
+  
+- **Regular Feedback Collection** : Implement regular feedback collection mechanisms to understand customer needs and concerns. Use this feedback to continuously improve services and address any issues promptly.
+  
+- **Proactive Customer Support** : Establish a proactive customer support system to reach out to customers showing signs of dissatisfaction. This can include regular check-ins, personalized support, and addressing potential issues before they lead to churn.
+
+- **Loyalty Programs** : Develop and enhance loyalty programs to reward long-term customers. Exclusive benefits and rewards for loyal customers can increase retention rates.
+
+- **Customer Education Programs**: Create educational content to help customers better understand and utilize the services offered. Informed customers are more likely to see the value in staying with the company.
+
+## References
+
+1. Petkovski, A.J., Stojkoska, B.L.R., Trivodaliev, K.V. and Kalajdziski, S.A. (2016). ‘Analysis of churn prediction: A case study on telecommunication services in Macedonia’. 2016 24th Telecommunications Forum (TELFOR).
+
+2. Prabadevi, B., Shalini, R. and Kavitha, B.R. (2023).‘Customer churning analysis using machine learning algorithms’. International Journal of Intelligent Networks, [online] 4.
+doi:https://doi.org/10.1016/j.ijin.2023.05.005.
+
+3. Umayaparvathi, V. and Iyakutti, K. (2016). ‘Attribute selection and Customer Churn Prediction in telecom industry’. 2016 International Conference on Data Mining and Advanced Computing (SAPIENCE). doi:https://doi.org/10.1109/sapience.2016.7684171.
+
+
+
+
 
