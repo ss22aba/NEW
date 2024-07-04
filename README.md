@@ -9,9 +9,19 @@ These models will be enhanced through hyperparameter tuning to optimize performa
 
 At the conclusion of the project, the effectiveness of the three hyper-tuned models will be assessed, and the best model will be chosen. This project aims to develop a state-of-the-art churn prediction system using advanced machine learning techniques and rigorous optimization, providing a reliable solution for improving customer retention strategies.
 
-## Flow chart of the Presentation
+## Flow chart of the Project
 
 
 ![Untitled presentation](https://github.com/ss22aba/NEW/assets/117084208/37cfa9d8-3621-4cad-b1c2-5d1fc4af7e03)
+
+## Dataset
+- Telco Customer Churn Dataset is the dataset used.
+- **Data Format** : CSV Format (Each record is structured as a row in the CSV file, with columns representing different attributes of the customers and their service usage).
+- **Number of Records** : The dataset usually contains around 7,000 to 7,500 records.
+- **Data File Size** : 977.5 kB (0.95 MB)
+- **Dataset Provider** : IBM via Kaggle
+- **Dataset Link** : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+  
+
 
 
