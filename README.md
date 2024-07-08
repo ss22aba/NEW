@@ -5,7 +5,8 @@ This project aims to predict customer churn using the Telco Customer Churn datas
 
 ## Flow chart of the Project
 
-![Flowchart](https://github.com/ss22aba/NEW/assets/117084208/2eae1323-1d7a-49dd-802d-6753aeae488f)
+![Flowchart- customer churn](https://github.com/ss22aba/NEW/assets/117084208/f2c477f1-be80-4bdc-8945-3ce7edfcddcd)
+
 
 ## Dataset
 - Telco Customer Churn Dataset is the dataset used.
