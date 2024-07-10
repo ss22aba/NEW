@@ -48,7 +48,7 @@ The KDE plot for total charges implies that customers with lower total charges a
 
 ##### Description
 - Gender does not appear to be a significant factor in customer churn. Both male and female customers exhibit similar churn patterns
-- Senior citizens (SeniorCitizen = 1) are more likely to churn than non-senior citizens (SeniorCitizen = 0).
+- Senior citizens are more likely to churn than non-senior citizens.
 - Customers without partners are more likely to churn compared to those without.
 - Customers without dependents (Dependents = No) have a higher churn rate.
 
