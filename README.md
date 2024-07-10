@@ -9,16 +9,16 @@ This project aims to predict customer churn using the Telco Customer Churn datas
 
 ##  Required Libraries 
 
-1. Data Handling Libraries:
+**1. Data Handling Libraries:**
 
 pandas : Used for data manipulation and analysis.
 numpy : Used for numerical operations.
 
-2. Time Management:
+**2. Time Management:**
 
 time: Standard Python library for time-related functions.
 
-3. Visualization Libraries:
+**3. Visualization Libraries:**
 
 matplotlib.pyplot : Used for creating static visualizations.
 seaborn : Based on Matplotlib, used for statistical data visualization.
@@ -27,24 +27,24 @@ plotly.graph_objects : Used for creating more complex interactive visualizations
 plotly.subplots : Used for creating subplot figures.
 missingno : Used for visualizing missing data.
 
-4. Preprocessing Libraries:
+**4. Preprocessing Libraries:**
 
 sklearn.model_selection : Used for splitting the data into training and testing sets.
 sklearn.preprocessing: Used for scaling the features.
 
-5. Evaluation Libraries:
+**5. Evaluation Libraries:**
 
 sklearn.metrics (imported confusion_matrix, ConfusionMatrixDisplay, accuracy_score, classification_report, roc_curve, auc, roc_auc_score): Used for evaluating the performance of the models.
 sklearn.dummy : Used for creating simple baseline classifiers.
 sklearn.inspection : Used for assessing the importance of features.
 skopt : Used for Bayesian optimization of hyperparameters.
 
-6. Model Libraries:
+**6. Model Libraries:**
 
 sklearn.neighbors : Used for K-Nearest Neighbors classification.
 sklearn.ensemble : Used for ensemble learning methods (Random Forest and Gradient Boosting).
 
-7. Warnings Management:
+**7. Warnings Management:**
 
 warnings: Standard Python library for managing warning messages (configured to ignore FutureWarning).
 
