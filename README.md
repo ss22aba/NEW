@@ -52,8 +52,8 @@ The KDE plot for total charges implies that customers with lower total charges a
 - Customers without partners are more likely to churn compared to those without.
 - Customers without dependents (Dependents = No) have a higher churn rate.
 
-  
-![demographic](https://github.com/ss22aba/NEW/assets/117084208/f7cf992e-e1ce-412d-8572-96e556ec9c10)
+![demographic](https://github.com/ss22aba/NEW/assets/117084208/59945e2e-fbcd-4527-aa56-5cb1cf40849c)
+
 
 #### General Services
 
