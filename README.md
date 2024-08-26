@@ -1,4 +1,4 @@
-# Customer Churn Prediction using Machine Learning
+# Telco Customer Churn Prediction using Machine Learning
 
 ## Project Overview 
 This project aims to predict customer churn using the Telco Customer Churn dataset from Kaggle, provided by IBM. Building on insights from Prabadevi et al. (2023), Umayaparvathi (2016), and Petkovski (2016), it employs three machine learning models: Random Forest, K-Nearest Neighbors (KNN), and Gradient Boosting. After evaluating the models and performing hyperparameter tuning, Random Forest achieved the best results. Recommendations based on this model include enhancing customer support, offering personalized promotions, improving overall customer experience, regularly collecting feedback, and implementing targeted retention strategies to reduce churn and prevent revenue loss.
